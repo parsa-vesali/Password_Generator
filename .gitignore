@@ -1,0 +1,9 @@
+# Encrypted passwords
+passwords.txt.cpt
+
+# VSCode settings
+.vscode/
+
+# Swap files
+*.swp
+*.swo
