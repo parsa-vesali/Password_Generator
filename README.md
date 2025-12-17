@@ -2,6 +2,12 @@
 
 A simple Bash script that generates secure passwords and optionally saves them encrypted.
 
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash" />
+  </a>
+</p>
+
 ## Features
 - Generate multiple passwords of user-defined length
 - Securely encrypt passwords using `ccrypt`
@@ -17,3 +23,4 @@ Install ccrypt (Debian/Ubuntu):
 sudo apt install ccrypt
 chmod +x main.sh
 ./main.sh
+
